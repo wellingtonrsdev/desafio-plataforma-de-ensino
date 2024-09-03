@@ -33,7 +33,7 @@ chamada do método duration() deve ser polimórfica.
 de nome para Java (classe com primeira letra maiúscula, e padrão "camel case" para atributos, variáveis
 e métodos.
 2) Implementação correta da classe abstrata e das heranças com sobreposição do método abstrato.
-3) Programa principal contento apenas uma lista do tipo List<Lesson> para armazenar todas aulas.
+3) Programa principal contendo apenas uma lista do tipo List<Lesson> para armazenar todas aulas.
 4) Comportamento do programa e resultado dos cálculos corretos.
 
 ## Realização
